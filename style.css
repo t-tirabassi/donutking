@@ -1,3 +1,49 @@
 body {
-  background-color: Ivory;
+  background-color: transparent;
 }
+
+.sub_button {
+  padding: 3em;
+  color: #ef7373;
+}
+
+.info {
+  font-size: 16px;
+  width: 14px;
+  padding: 14px 21px 14px 21px;
+}
+
+
+.navbar-nav {
+  margin-left: 10px;
+  margin-right: 10px;
+  font-family: 'Helvetica', sans-serif;
+  background-color: white;
+  color: #000000;
+}
+
+h1, h2 {
+  font-family: 'Open-Sans', sans-serif;
+  padding: 10px;
+  border: 50px;
+}
+
+.footer-logo {
+  width: 250px; /* Adjust the width as needed */
+}
+
+.footer {
+  background-color: #292929;
+  color: white;
+}
+
+.footergreen {
+  background-color: seagreen;
+  color: white;
+}
+
+
+
+
+
+
